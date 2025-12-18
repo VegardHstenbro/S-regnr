@@ -1,0 +1,7 @@
+{
+  "name": "Søk Regnr - WP Plugin Developer Pro",
+  "description": "A comprehensive developer toolkit and simulation dashboard for the 'sokregnr' WordPress plugin, featuring a live UI demo, admin settings, and production-ready PHP source code generation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
